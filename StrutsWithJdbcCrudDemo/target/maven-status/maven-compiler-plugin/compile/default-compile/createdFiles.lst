@@ -1,0 +1,7 @@
+com\struts\dbconfig\DBINFO.class
+com\struts\dbconfig\ConnectionProvider.class
+com\struts\dao\UserDao.class
+com\struts\actions\RegisterAction.class
+com\struts\models\User.class
+com\struts\filereader\PropertyFileReader.class
+com\struts\dao\UserDaoImpl.class

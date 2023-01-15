@@ -1,0 +1,5 @@
+com\struts\dbconfig\HibernateUtils.class
+com\struts\actions\AddPersonAction.class
+com\struts\actions\PersonListAction.class
+com\struts\entity\Person.class
+com\struts\front\controllers\Struts2Filter.class
